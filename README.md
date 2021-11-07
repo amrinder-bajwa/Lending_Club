@@ -31,11 +31,13 @@
 
 
 ## Technologies Used
-- Python - version 1.0
-- Jupyter Notebook - version 2.0
-- Numpy - version 3.0
-- Pandas - version 3.0
-- Seaborn - version 3.0
+- Python - version 3.8.8
+- Jupyter Notebook - version 6.3.0
+- Numpy - version 1.20.1
+- Pandas - version 1.2.4
+- Matplotlib - version 3.3.4
+- Seaborn - version 0.11.1
+- Plotly - version 5.3.1
 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
