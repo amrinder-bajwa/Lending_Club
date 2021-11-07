@@ -12,9 +12,9 @@
 
 ## General Information
 - A Consumer Finance Company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
-1. If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+1 If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
 
-2. If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+2 If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 - The purpose of this project is to perform Exploratory Data Analysis(EDA) on the dataset. The EDA includes the data cleanup and removal of unwanted data which is not required in our analysis work. 
 - With the help of Data Analysis, we are trying to find out main driving factors behind the default loans.
