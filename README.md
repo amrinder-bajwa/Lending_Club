@@ -1,5 +1,5 @@
 # Lending Club
-> The purpose of this case study is to find out the main driving factors behind loan defaultß.
+> The purpose of this case study is to find out the main driving factors behind loan defaults.
 
 
 ## Table of Contents
@@ -13,8 +13,8 @@
 ## General Information
 - Provide general information about your project here.
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- With the help of Data Analysis, we are trying to find out main driving factors behind the default loans.
+- The dataset that has been used in this project is the loan data which includes around 40k loans issued during the period of 2007 to 2011. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
