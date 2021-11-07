@@ -31,9 +31,12 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 1.0
+- Jupyter Notebook - version 2.0
+- Numpy - version 3.0
+- Pandas - version 3.0
+- Seaborn - version 3.0
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
