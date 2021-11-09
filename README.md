@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> The purpose of this case study is to find out the main driving factors behind loan defaults. The analysis is done on about 40k loans issue between 2007 - 2011 by the Consumer Finance Company.
+> The purpose of this case study is to find out the main driving factors behind loan defaults using the Exploratory Data Analysis (EDA) in Python. The analysis is done on about 40k loans issued between 2007 - 2011 by the Consumer Finance Company.
 
 
 ## Table of Contents
