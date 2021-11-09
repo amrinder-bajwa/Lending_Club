@@ -1,5 +1,5 @@
-# Lending Club
-> The purpose of this case study is to find out the main driving factors behind loan defaults.
+# Lending Club Case Study
+> The purpose of this case study is to find out the main driving factors behind loan defaults. The analysis is done on about 40k loans issue between 2007 - 2011 by the Consumer Finance Company.
 
 
 ## Table of Contents
@@ -22,10 +22,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### After performing all the analysis on the dataset. We have reached to the following Conclusions:
+- It is observed that the ratio of Charged Off higher where annual income is under 20k. Loans should be avoided to applicants with lower income.
+- Small Business applicants have high chances of getting default. Loans should be given carefully to Small Businessnes.
+- Although most applicants have a loan term of 36 months, but the ratio of 60 months term is much higher on Charged Off loans. The company should give more loans with a shorter term. Short term loans will have lower interest rates than long term and applicants will be able to pay the instalments on time.
+- There are high chances of getting Charged Off if applicant has a previous Derogatory Public Record or Public Bankruptcy.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -43,14 +44,11 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- I would like to thank Upgrad, IIIT Bangalore for giving me a chance to work on this project.
 
 
 ## Contact
-Created by [@amrinder-bajwa] - feel free to contact me!
+Created by Amrinder Singh Bajwa (amrinder_bajwa@hotmail.com) and Akhilesh Gangwar (akhilesh.eow@gmail.com).
 
 
 <!-- Optional -->
