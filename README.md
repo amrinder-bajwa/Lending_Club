@@ -44,7 +44,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- I would like to thank Upgrad, IIIT Bangalore for giving me a chance to work on this project.
+- I would like to thank Upgrad and IIIT Bangalore for giving me a chance to work on this project.
 
 
 ## Contact
