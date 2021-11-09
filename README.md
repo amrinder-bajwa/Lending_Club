@@ -48,7 +48,9 @@
 
 
 ## Contact
-Created by Amrinder Singh Bajwa (amrinder_bajwa@hotmail.com) and Akhilesh Gangwar (akhilesh.eow@gmail.com).
+#### Created by:
+- Amrinder Singh Bajwa (amrinder_bajwa@hotmail.com) 
+- Akhilesh Gangwar (akhilesh.eow@gmail.com)
 
 
 <!-- Optional -->
